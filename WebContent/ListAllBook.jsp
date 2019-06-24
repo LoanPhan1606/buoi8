@@ -9,7 +9,7 @@
 		<h1>QUẢN LÝ SÁCH</h1>
 		<h2>
 			<a href="/Bookstore/new">Thêm mới Sách</a> &nbsp;&nbsp;&nbsp; <a
-				href="/Bookstore/list">Danh sách Sách</a>
+				href="/buoi8/list">Danh sách Sách</a>
 
 		</h2>
 	</center>
